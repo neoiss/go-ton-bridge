@@ -1,6 +1,6 @@
 module github.com/neoiss/go-ton-bridge
 
-go 1.23.0
+go 1.19.0
 
 require (
 	github.com/bits-and-blooms/bitset v1.13.0 // indirect
