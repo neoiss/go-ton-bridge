@@ -12,7 +12,7 @@ type Signature struct {
 	S *big.Int
 }
 
-func generateMessageInCell(
+func GenerateMessageInCell(
 	hash common.Hash,
 	signs []*Signature,
 	receiptRoot common.Hash,
